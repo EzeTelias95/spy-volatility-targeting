@@ -1,0 +1,22 @@
+Par,"Dif. Sharpe, bruto","p, bruto","Dif. Sharpe, neto","p, neto"
+"EWMA vs GARCH(1,1)",-0.012,0.64,-0.006,0.81
+EWMA vs HAR-RV,-0.044,0.38,-0.021,0.67
+EWMA vs GBM,-0.033,0.58,0.006,0.93
+EWMA vs GBM + VIX,-0.033,0.59,0.006,0.92
+EWMA vs Trailing 21 días,0.004,0.91,0.003,0.93
+EWMA vs Pasivo,-0.027,0.80,-0.035,0.75
+"GARCH(1,1) vs HAR-RV",-0.032,0.45,-0.015,0.71
+"GARCH(1,1) vs GBM",-0.021,0.68,0.012,0.82
+"GARCH(1,1) vs GBM + VIX",-0.021,0.72,0.012,0.84
+"GARCH(1,1) vs Trailing 21 días",0.016,0.69,0.009,0.83
+"GARCH(1,1) vs Pasivo",-0.015,0.89,-0.029,0.79
+HAR-RV vs GBM,0.011,0.74,0.027,0.39
+HAR-RV vs GBM + VIX,0.011,0.78,0.027,0.52
+HAR-RV vs Trailing 21 días,0.049,0.22,0.025,0.53
+HAR-RV vs Pasivo,0.017,0.88,-0.013,0.91
+GBM vs GBM + VIX,0.000,1.00,0.000,1.00
+GBM vs Trailing 21 días,0.037,0.42,-0.003,0.96
+GBM vs Pasivo,0.006,0.96,-0.041,0.74
+GBM + VIX vs Trailing 21 días,0.037,0.48,-0.003,0.95
+GBM + VIX vs Pasivo,0.006,0.95,-0.041,0.72
+Trailing 21 días vs Pasivo,-0.031,0.78,-0.038,0.73

@@ -1,0 +1,24 @@
+archivo,titulo,fuente
+tabla_01_descriptivas.csv,Estadísticas descriptivas de SPY y de la volatilidad realizada,Fuente: elaboración propia en base a datos de Yahoo Finance.
+tabla_02_pronosticos.csv,Evaluación de pronósticos contra la varianza Garman-Klass más overnight,Fuente: elaboración propia en base a datos de Yahoo Finance.
+tabla_03_proxy_alternativo.csv,Ranking de pronósticos con el retorno al cuadrado como proxy alternativo,Fuente: elaboración propia en base a datos de Yahoo Finance.
+tabla_04_caso_base.csv,Estrategias en el caso base,Fuente: elaboración propia en base a datos de Yahoo Finance y FRED.
+tabla_05_tests.csv,Regresión de spanning y diferencia de Sharpe contra el pasivo,Fuente: elaboración propia en base a datos de Yahoo Finance y FRED.
+tabla_06_corte_entrenamiento.csv,"QLIKE, Sharpe y vol-of-vol por corte de entrenamiento",Fuente: elaboración propia en base a datos de Yahoo Finance y FRED.
+tabla_07_subperiodos.csv,Sharpe y vol-of-vol por subperíodo,Fuente: elaboración propia en base a datos de Yahoo Finance y FRED.
+tabla_08_sensibilidades.csv,Sharpe neto y turnover por variante de la regla,Fuente: elaboración propia en base a datos de Yahoo Finance y FRED.
+tabla_09_dia_semanal.csv,Decisión semanal según el día ancla,Fuente: elaboración propia en base a datos de Yahoo Finance y FRED.
+tabla_10_ganancia_por_quintil.csv,QLIKE y ganancia del GBM por quintil de volatilidad realizada,Fuente: elaboración propia en base a datos de Yahoo Finance.
+tabla_11_ejecucion.csv,Sharpe según la convención de ejecución y las fricciones,Fuente: elaboración propia en base a datos de Yahoo Finance y FRED.
+tabla_12_costos.csv,Sharpe neto por costo de transacción,Fuente: elaboración propia en base a datos de Yahoo Finance y FRED.
+tabla_13_colas_y_actividad.csv,"Colas y actividad de trading en el caso base, bruto y neto de costos",Fuente: elaboración propia en base a datos de Yahoo Finance y FRED.
+tabla_14_pares.csv,"Diferencia de Sharpe entre pares de estrategias, bruta y neta de costos",Fuente: elaboración propia en base a datos de Yahoo Finance y FRED.
+tabla_15_diagnosticos.csv,"Diagnósticos del cap, de las reglas de salida y de la capacidad",Fuente: elaboración propia en base a datos de Yahoo Finance y FRED.
+tabla_16_significancia.csv,"Tests de diferencia de Sharpe neta por variante, p mínimo contra el pasivo y pares entre modelos con p menor que 0.05",Fuente: elaboración propia en base a datos de Yahoo Finance y FRED.
+tabla_17_horizonte.csv,"QLIKE del pronóstico a tiempo, con un día de atraso y a dos días, 4146 días desde el 5 de enero de 2010",Fuente: elaboración propia en base a datos de Yahoo Finance.
+tabla_18_oraculos.csv,"Oráculos con información futura y aleatorización de signos, orden al mismo cierre, 100 réplicas, 4127 días hasta el 1 de junio de 2026",Fuente: elaboración propia en base a datos de Yahoo Finance y FRED.
+tabla_19_retorno_por_quintil.csv,"Retorno medio de SPY por quintil de volatilidad, en puntos básicos",Fuente: elaboración propia en base a datos de Yahoo Finance.
+grafico_01_precio_y_volatilidad.png,"Precio de SPY y volatilidad realizada Garman-Klass más overnight, 2000-2026",Fuente: elaboración propia en base a datos de Yahoo Finance.
+grafico_02_pronosticos_2020.png,"GARCH y GBM contra la volatilidad realizada, enero a junio de 2020",Fuente: elaboración propia en base a datos de Yahoo Finance.
+grafico_03_riqueza_y_drawdown.png,"Riqueza acumulada neta y drawdown, caso base",Fuente: elaboración propia en base a datos de Yahoo Finance y FRED.
+grafico_04_control_de_volatilidad.png,"Volatilidad móvil de 21 días contra el objetivo, caso base",Fuente: elaboración propia en base a datos de Yahoo Finance y FRED.

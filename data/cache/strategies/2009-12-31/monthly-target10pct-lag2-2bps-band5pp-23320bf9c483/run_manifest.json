@@ -1,0 +1,136 @@
+{
+  "gross_config": {
+    "target_vol_annual": 0.1,
+    "sizing_exponent": 1.0,
+    "vol_cutoff_annual": null,
+    "max_weight": 1.5,
+    "funding_spread_annual": 0.005,
+    "execution_lag": 2,
+    "forecast_horizon": 1,
+    "apply_cap": true,
+    "no_trade_band": 0.05,
+    "transaction_cost_bps": 2.0,
+    "apply_band": true,
+    "apply_costs": false,
+    "initial_capital": 1.0,
+    "decision_frequency": "monthly",
+    "weekly_anchor": "FRI"
+  },
+  "net_config": {
+    "target_vol_annual": 0.1,
+    "sizing_exponent": 1.0,
+    "vol_cutoff_annual": null,
+    "max_weight": 1.5,
+    "funding_spread_annual": 0.005,
+    "execution_lag": 2,
+    "forecast_horizon": 1,
+    "apply_cap": true,
+    "no_trade_band": 0.05,
+    "transaction_cost_bps": 2.0,
+    "apply_band": true,
+    "apply_costs": true,
+    "initial_capital": 1.0,
+    "decision_frequency": "monthly",
+    "weekly_anchor": "FRI"
+  },
+  "bootstrap_reps": 1000,
+  "seed": 42,
+  "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae",
+  "strategies": [
+    "ewma",
+    "garch",
+    "har",
+    "gbm",
+    "gbm_vix",
+    "trailing",
+    "buy_and_hold"
+  ],
+  "forecast_manifest": {
+    "train_end": "2009-12-31",
+    "snapshot_manifest": {
+      "download_date": "2026-08-24",
+      "start": "2000-01-01",
+      "end": "2026-06-30",
+      "yfinance_version": "1.6.0",
+      "files": {
+        "spy_raw_2026-08-24.parquet": "6d7b6ea6d6af5696cd1e5e15925498c1c55b1ab5fdad7a3c09a85527be2a910e",
+        "vix_raw_2026-08-24.parquet": "7084482da3794c9c7f3d803cb2522a0c2356eaa8d671d1c8a7c5db0f7c7f807d",
+        "dgs3mo_raw_2026-08-24.csv": "5e4a33eba5a45fe0c1a84e671fa481921c40d27549e1d13179be08ad9da579d8"
+      }
+    },
+    "models": {
+      "ewma": {
+        "forecasts": 4147,
+        "refits": 0,
+        "run_date": "2026-10-11",
+        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+      },
+      "garch": {
+        "forecasts": 4147,
+        "refits": 197,
+        "run_date": "2026-10-11",
+        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+      },
+      "har": {
+        "forecasts": 4147,
+        "refits": 197,
+        "run_date": "2026-10-11",
+        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+      },
+      "gbm": {
+        "forecasts": 4147,
+        "refits": 197,
+        "run_date": "2026-10-11",
+        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+      },
+      "gbm_vix": {
+        "forecasts": 4147,
+        "refits": 197,
+        "run_date": "2026-10-11",
+        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+      },
+      "trailing": {
+        "forecasts": 4147,
+        "refits": 0,
+        "run_date": "2026-10-11",
+        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+      },
+      "ewma_h2": {
+        "forecasts": 4146,
+        "refits": 0,
+        "run_date": "2026-10-11",
+        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+      },
+      "garch_h2": {
+        "forecasts": 4146,
+        "refits": 197,
+        "run_date": "2026-10-11",
+        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+      },
+      "har_h2": {
+        "forecasts": 4146,
+        "refits": 197,
+        "run_date": "2026-10-11",
+        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+      },
+      "gbm_h2": {
+        "forecasts": 4146,
+        "refits": 197,
+        "run_date": "2026-10-11",
+        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+      },
+      "gbm_vix_h2": {
+        "forecasts": 4146,
+        "refits": 197,
+        "run_date": "2026-10-11",
+        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+      },
+      "trailing_h2": {
+        "forecasts": 4146,
+        "refits": 0,
+        "run_date": "2026-10-11",
+        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+Convención,Trailing 21 días,EWMA,"GARCH(1,1)",HAR-RV,GBM,GBM + VIX
+Peso aplicado al retorno del día de la decisión (contrafactual),0.979,1.072,1.315,1.325,2.588,2.771
+Orden al mismo cierre de la decisión,0.811,0.782,0.806,0.850,0.824,0.825
+Orden al cierre siguiente (implementable),0.762,0.749,0.771,0.796,0.773,0.784
++ cap,0.756,0.752,0.772,0.794,0.772,0.778
++ banda,0.742,0.746,0.758,0.791,0.779,0.779
++ costos (caso base),0.735,0.738,0.744,0.760,0.732,0.732
+"Orden al mismo cierre con cap, banda y costos",0.784,0.760,0.774,0.801,0.775,0.772
+"Orden al cierre siguiente, pronóstico a dos días, sin fricciones",0.762,0.749,0.775,0.799,0.798,0.804

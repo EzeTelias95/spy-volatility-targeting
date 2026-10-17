@@ -1,0 +1,7 @@
+Modelo,"QLIKE, GK + overnight","QLIKE, retorno al cuadrado","DM vs GBM, retorno al cuadrado",p,"Días en el piso, retorno al cuadrado"
+Trailing 21 días,0.524,1.635,6.57,<0.001,58
+EWMA,0.497,1.638,6.68,<0.001,58
+"GARCH(1,1)",0.444,1.581,6.58,<0.001,58
+HAR-RV,0.419,1.532,3.89,<0.001,58
+GBM,0.379,1.492,,,58
+GBM + VIX,0.352,1.467,-3.42,<0.001,58

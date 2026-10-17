@@ -1,0 +1,23 @@
+Variante,p mínimo contra el pasivo,Pares entre modelos con p < 0.05
+Caso base,0.723 (GBM + VIX),ninguno
+Entrenamiento hasta 2008,0.816 (GBM),ninguno
+Entrenamiento hasta 2012,"0.655 (GARCH(1,1))",ninguno
+2010-2017,0.418 (GBM),ninguno
+2018-2026,0.585 (EWMA),ninguno
+Sin 2020,0.256 (GBM + VIX),ninguno
+"Decisión semanal, lunes",0.639 (EWMA),ninguno
+"Decisión semanal, martes",0.784 (EWMA),ninguno
+"Decisión semanal, miércoles",0.227 (GBM + VIX),HAR-RV vs GBM + VIX (0.040)
+"Decisión semanal, jueves",0.609 (EWMA),ninguno
+"Decisión semanal, viernes",0.503 (HAR-RV),ninguno
+Decisión mensual,0.503 (HAR-RV),ninguno
+Vol objetivo 15%,0.740 (GBM + VIX),ninguno
+Vol objetivo 20%,"0.524 (GARCH(1,1))","GARCH(1,1) vs Trailing 21 días (0.038)"
+Sin cap,0.727 (GBM),ninguno
+Regla por varianza,0.206 (GBM + VIX),ninguno
+Corte de vol 30%,0.328 (HAR-RV),ninguno
+Corte de vol 20%,0.253 (GBM + VIX),ninguno
+Pronóstico a dos días,0.730 (Trailing 21 días),ninguno
+5 bps,0.356 (GBM + VIX),ninguno
+10 bps,0.066 (GBM + VIX),"EWMA vs GBM (0.004), HAR-RV vs GBM (0.005), GBM vs Trailing 21 días (0.005), GBM + VIX vs Trailing 21 días (0.007), EWMA vs GBM + VIX (0.009), GARCH(1,1) vs GBM (0.009), GARCH(1,1) vs GBM + VIX (0.012), HAR-RV vs GBM + VIX (0.024)"
+"Orden al mismo cierre con cap, banda y costos",0.818 (HAR-RV),ninguno

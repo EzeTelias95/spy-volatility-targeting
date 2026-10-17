@@ -1,0 +1,13 @@
+Medida,Trailing 21 días,EWMA,"GARCH(1,1)",HAR-RV,GBM,GBM + VIX
+"Días sobre el cap, decisión semanal",13,21,8,22,31,36
+"Peso máximo, decisión semanal",1.51,1.54,1.51,1.51,1.51,1.51
+"Días sobre el cap, decisión mensual",54,65,0,36,3,2
+"Peso máximo, decisión mensual",1.52,1.59,1.45,1.54,1.51,1.51
+"Días con el cap activo, objetivo 10%",2.9%,3.0%,0.5%,1.8%,2.6%,2.8%
+"Días con el cap activo, objetivo 15%",26.7%,21.6%,19.3%,21.2%,25.6%,26.0%
+"Días con el cap activo, objetivo 20%",55.4%,55.1%,51.2%,50.5%,54.8%,54.9%
+"Retorno medio de SPY fuera del mercado, corte de vol 30% (pb)",17.3,19.1,18.0,36.2,34.1,27.2
+"Retorno medio de SPY dentro del mercado, corte de vol 30% (pb)",5.4,5.2,5.2,4.3,4.5,4.7
+"Retorno medio de SPY fuera del mercado, corte de vol 20% (pb)",12.9,11.0,9.5,12.7,10.2,13.3
+"Retorno medio de SPY dentro del mercado, corte de vol 20% (pb)",4.4,4.7,5.0,4.3,4.9,4.3
+Capacidad mediana (miles de millones de dólares),3.38,3.45,3.36,2.57,2.15,2.14

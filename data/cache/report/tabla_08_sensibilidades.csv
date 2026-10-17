@@ -1,0 +1,31 @@
+Variante,Medida,Trailing 21 días,EWMA,"GARCH(1,1)",HAR-RV,GBM,GBM + VIX,Pasivo,p mínimo
+Caso base,Sharpe neto,0.735,0.738,0.744,0.760,0.732,0.732,0.773,0.72
+Caso base,Turnover anual,3.8x,4.2x,6.8x,15.2x,23.4x,23.1x,0.06x,
+Vol objetivo 15%,Sharpe neto,0.745,0.749,0.773,0.762,0.750,0.739,0.773,0.74
+Vol objetivo 15%,Turnover anual,4.0x,4.9x,8.9x,17.0x,22.7x,22.7x,0.06x,
+Vol objetivo 20%,Sharpe neto,0.758,0.811,0.829,0.779,0.762,0.768,0.773,0.52
+Vol objetivo 20%,Turnover anual,2.9x,3.1x,6.4x,11.6x,15.0x,14.6x,0.06x,
+Sin cap,Sharpe neto,0.740,0.734,0.744,0.760,0.731,0.736,0.773,0.73
+Sin cap,Turnover anual,4.1x,4.6x,6.8x,15.9x,24.7x,24.4x,0.06x,
+Regla por varianza,Sharpe neto,0.602,0.567,0.569,0.641,0.589,0.564,0.773,0.21
+Regla por varianza,Turnover anual,6.2x,7.1x,12.0x,23.6x,35.1x,34.9x,0.06x,
+Corte de vol 30%,Sharpe neto,0.712,0.711,0.705,0.640,0.648,0.656,0.773,0.33
+Corte de vol 30%,Turnover anual,4.0x,4.8x,7.8x,17.0x,25.3x,25.1x,0.06x,
+Corte de vol 20%,Sharpe neto,0.614,0.643,0.658,0.619,0.669,0.593,0.773,0.25
+Corte de vol 20%,Turnover anual,4.9x,5.8x,9.7x,20.5x,28.5x,27.8x,0.06x,
+Pronóstico a dos días,Sharpe neto,0.735,0.738,0.752,0.755,0.766,0.762,0.773,0.73
+Pronóstico a dos días,Turnover anual,3.8x,4.2x,6.5x,18.0x,18.8x,18.1x,0.06x,
+Decisión semanal,Sharpe neto,0.712,0.718,0.727,0.706,0.719,0.710,0.773,0.50
+Decisión semanal,Turnover anual,3.4x,3.3x,4.7x,7.0x,8.6x,8.7x,0.06x,
+Decisión mensual,Sharpe neto,0.746,0.748,0.764,0.695,0.721,0.717,0.773,0.50
+Decisión mensual,Turnover anual,2.4x,2.1x,2.6x,2.8x,2.7x,2.6x,0.06x,
+Banda 0 pp,Sharpe neto,0.747,0.740,0.753,0.757,0.721,0.727,0.773,
+Banda 0 pp,Turnover anual,5.2x,6.3x,9.3x,17.9x,25.6x,25.2x,0.06x,
+Banda 2.5 pp,Sharpe neto,0.746,0.743,0.759,0.753,0.722,0.725,0.773,
+Banda 2.5 pp,Turnover anual,4.4x,5.2x,8.4x,17.0x,24.9x,24.6x,0.06x,
+Banda 10 pp,Sharpe neto,0.721,0.726,0.753,0.762,0.741,0.705,0.773,
+Banda 10 pp,Turnover anual,3.2x,3.2x,4.9x,11.5x,19.6x,19.4x,0.06x,
+Cap 2x,Sharpe neto,0.739,0.735,0.744,0.760,0.730,0.734,0.773,
+Cap 2x,Turnover anual,4.0x,4.6x,6.8x,15.9x,24.7x,24.4x,0.06x,
+Cap 3x,Sharpe neto,0.740,0.734,0.744,0.760,0.731,0.736,0.773,
+Cap 3x,Turnover anual,4.1x,4.6x,6.8x,15.9x,24.7x,24.4x,0.06x,

@@ -1,0 +1,11 @@
+{
+  "download_date": "2026-08-24",
+  "start": "2000-01-01",
+  "end": "2026-06-30",
+  "yfinance_version": "1.6.0",
+  "files": {
+    "spy_raw_2026-08-24.parquet": "6d7b6ea6d6af5696cd1e5e15925498c1c55b1ab5fdad7a3c09a85527be2a910e",
+    "vix_raw_2026-08-24.parquet": "7084482da3794c9c7f3d803cb2522a0c2356eaa8d671d1c8a7c5db0f7c7f807d",
+    "dgs3mo_raw_2026-08-24.csv": "5e4a33eba5a45fe0c1a84e671fa481921c40d27549e1d13179be08ad9da579d8"
+  }
+}

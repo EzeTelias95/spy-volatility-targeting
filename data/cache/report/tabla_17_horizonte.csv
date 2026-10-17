@@ -1,0 +1,7 @@
+Modelo,QLIKE a tiempo,QLIKE con un día de atraso,Aumento por el atraso,"DM vs GBM, con atraso","p DM, con atraso",QLIKE a dos días,Recuperado por el pronóstico a dos días,"p, dos días contra atrasado"
+Trailing 21 días,0.524,0.569,8.6%,5.84,<0.001,0.569,0.0%,1.00
+EWMA,0.497,0.546,9.9%,5.04,<0.001,0.546,0.0%,1.00
+"GARCH(1,1)",0.443,0.487,9.8%,3.77,<0.001,0.486,3.0%,0.14
+HAR-RV,0.419,0.458,9.4%,2.24,0.03,0.454,11.8%,0.02
+GBM,0.378,0.440,16.3%,,,0.435,7.2%,0.43
+GBM + VIX,0.352,0.410,16.4%,-3.90,<0.001,0.407,5.3%,0.46

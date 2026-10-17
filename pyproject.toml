@@ -1,0 +1,34 @@
+[project]
+name = "spy-volatility-targeting"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "arch==8.0.0",
+    "lightgbm==4.7.0",
+    "matplotlib==3.11.1",
+    "notebook==7.6.2",
+    "numpy==2.5.2",
+    "pandas==3.0.5",
+    "pyarrow==25.0.1",
+    "yfinance==1.6.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest==9.1.1",
+    "ruff==0.16.4",
+]
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+line-length = 88
+exclude = ["notebooks", "entregas"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B"]
+
+[tool.pytest.ini_options]
+pythonpath = "."
+testpaths = ["tests"]

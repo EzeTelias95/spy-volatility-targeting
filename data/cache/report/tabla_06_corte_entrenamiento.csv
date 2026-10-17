@@ -1,0 +1,16 @@
+Muestra,Medida,Trailing 21 días,EWMA,"GARCH(1,1)",HAR-RV,GBM,GBM + VIX,Pasivo,p mínimo
+Entrenamiento hasta 2008,QLIKE,0.511,0.486,0.435,0.412,0.374,0.349,,
+Entrenamiento hasta 2008,DM vs GBM,7.16,7.99,7.82,4.43,,-4.75,,
+Entrenamiento hasta 2008,p DM,<0.001,<0.001,<0.001,<0.001,,<0.001,,
+Entrenamiento hasta 2008,Sharpe,0.768,0.769,0.766,0.784,0.756,0.758,0.783,0.82
+Entrenamiento hasta 2008,Vol-of-vol (pp),3.38,3.25,2.62,2.41,2.31,2.27,10.73,
+Entrenamiento hasta 2009 (base),QLIKE,0.524,0.497,0.444,0.419,0.379,0.352,,
+Entrenamiento hasta 2009 (base),DM vs GBM,7.25,8.13,7.98,4.48,,-4.74,,
+Entrenamiento hasta 2009 (base),p DM,<0.001,<0.001,<0.001,<0.001,,<0.001,,
+Entrenamiento hasta 2009 (base),Sharpe,0.735,0.738,0.744,0.760,0.732,0.732,0.773,0.72
+Entrenamiento hasta 2009 (base),Vol-of-vol (pp),3.46,3.32,2.66,2.45,2.35,2.30,10.22,
+Entrenamiento hasta 2012,QLIKE,0.536,0.509,0.451,0.420,0.382,0.352,,
+Entrenamiento hasta 2012,DM vs GBM,7.12,7.84,7.72,3.73,,-4.55,,
+Entrenamiento hasta 2012,p DM,<0.001,<0.001,<0.001,<0.001,,<0.001,,
+Entrenamiento hasta 2012,Sharpe,0.765,0.751,0.746,0.792,0.777,0.782,0.801,0.66
+Entrenamiento hasta 2012,Vol-of-vol (pp),3.53,3.43,2.73,2.47,2.37,2.33,10.15,

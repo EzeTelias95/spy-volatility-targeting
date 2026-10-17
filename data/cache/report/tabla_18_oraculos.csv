@@ -1,0 +1,10 @@
+Estrategia,Sharpe neto,Exceso sobre el pasivo,Exceso con signos aleatorizados,Diferencia entre ambos excesos
+Oráculo diario,2.062,1.273,0.389,0.885
+Oráculo de 21 días,1.835,1.046,0.304,0.743
+Trailing 21 días,0.809,0.021,0.228,-0.208
+EWMA,0.782,-0.006,0.217,-0.223
+"GARCH(1,1)",0.801,0.012,0.235,-0.222
+HAR-RV,0.835,0.047,0.254,-0.207
+GBM,0.809,0.020,0.259,-0.239
+GBM + VIX,0.802,0.013,0.270,-0.256
+Pasivo,0.788,0.000,0.000,0.000

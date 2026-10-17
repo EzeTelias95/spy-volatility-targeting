@@ -1,0 +1,11 @@
+Muestra,Medida,Trailing 21 días,EWMA,"GARCH(1,1)",HAR-RV,GBM,GBM + VIX,p mínimo
+Lunes,Sharpe,0.740,0.723,0.743,0.763,0.752,0.758,0.64
+Lunes,Vol-of-vol (pp),3.84,3.76,3.13,2.90,2.91,2.74,
+Martes,Sharpe,0.764,0.746,0.769,0.799,0.803,0.788,0.78
+Martes,Vol-of-vol (pp),3.88,3.87,3.30,3.02,2.93,2.84,
+Miércoles,Sharpe,0.735,0.719,0.711,0.746,0.680,0.661,0.23
+Miércoles,Vol-of-vol (pp),4.04,4.05,3.54,3.17,3.21,3.14,
+Jueves,Sharpe,0.740,0.726,0.744,0.766,0.793,0.770,0.61
+Jueves,Vol-of-vol (pp),3.89,3.84,3.20,2.92,2.75,2.70,
+Viernes,Sharpe,0.712,0.718,0.727,0.706,0.719,0.710,0.50
+Viernes,Vol-of-vol (pp),4.04,3.82,3.24,3.07,2.99,3.03,
