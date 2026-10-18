@@ -309,7 +309,7 @@
       "weekly_anchor": "FRI"
     }
   },
-  "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae",
+  "commit": "5a692eb01d7b2c3b9bdcac4e9aefe4ca1b48cddf",
   "strategies": [
     "ewma",
     "garch",
@@ -335,74 +335,74 @@
       "ewma": {
         "forecasts": 4147,
         "refits": 0,
-        "run_date": "2026-10-11",
-        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+        "run_date": "2026-10-18",
+        "commit": "5a692eb01d7b2c3b9bdcac4e9aefe4ca1b48cddf"
       },
       "garch": {
         "forecasts": 4147,
         "refits": 197,
-        "run_date": "2026-10-11",
-        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+        "run_date": "2026-10-18",
+        "commit": "5a692eb01d7b2c3b9bdcac4e9aefe4ca1b48cddf"
       },
       "har": {
         "forecasts": 4147,
         "refits": 197,
-        "run_date": "2026-10-11",
-        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+        "run_date": "2026-10-18",
+        "commit": "5a692eb01d7b2c3b9bdcac4e9aefe4ca1b48cddf"
       },
       "gbm": {
         "forecasts": 4147,
         "refits": 197,
-        "run_date": "2026-10-11",
-        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+        "run_date": "2026-10-18",
+        "commit": "5a692eb01d7b2c3b9bdcac4e9aefe4ca1b48cddf"
       },
       "gbm_vix": {
         "forecasts": 4147,
         "refits": 197,
-        "run_date": "2026-10-11",
-        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+        "run_date": "2026-10-18",
+        "commit": "5a692eb01d7b2c3b9bdcac4e9aefe4ca1b48cddf"
       },
       "trailing": {
         "forecasts": 4147,
         "refits": 0,
-        "run_date": "2026-10-11",
-        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+        "run_date": "2026-10-18",
+        "commit": "5a692eb01d7b2c3b9bdcac4e9aefe4ca1b48cddf"
       },
       "ewma_h2": {
         "forecasts": 4146,
         "refits": 0,
-        "run_date": "2026-10-11",
-        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+        "run_date": "2026-10-18",
+        "commit": "5a692eb01d7b2c3b9bdcac4e9aefe4ca1b48cddf"
       },
       "garch_h2": {
         "forecasts": 4146,
         "refits": 197,
-        "run_date": "2026-10-11",
-        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+        "run_date": "2026-10-18",
+        "commit": "5a692eb01d7b2c3b9bdcac4e9aefe4ca1b48cddf"
       },
       "har_h2": {
         "forecasts": 4146,
         "refits": 197,
-        "run_date": "2026-10-11",
-        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+        "run_date": "2026-10-18",
+        "commit": "5a692eb01d7b2c3b9bdcac4e9aefe4ca1b48cddf"
       },
       "gbm_h2": {
         "forecasts": 4146,
         "refits": 197,
-        "run_date": "2026-10-11",
-        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+        "run_date": "2026-10-18",
+        "commit": "5a692eb01d7b2c3b9bdcac4e9aefe4ca1b48cddf"
       },
       "gbm_vix_h2": {
         "forecasts": 4146,
         "refits": 197,
-        "run_date": "2026-10-11",
-        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+        "run_date": "2026-10-18",
+        "commit": "5a692eb01d7b2c3b9bdcac4e9aefe4ca1b48cddf"
       },
       "trailing_h2": {
         "forecasts": 4146,
         "refits": 0,
-        "run_date": "2026-10-11",
-        "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+        "run_date": "2026-10-18",
+        "commit": "5a692eb01d7b2c3b9bdcac4e9aefe4ca1b48cddf"
       }
     }
   }

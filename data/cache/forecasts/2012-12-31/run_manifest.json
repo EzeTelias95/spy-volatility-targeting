@@ -15,38 +15,38 @@
     "ewma": {
       "forecasts": 3393,
       "refits": 0,
-      "run_date": "2026-10-11",
-      "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+      "run_date": "2026-10-18",
+      "commit": "5a692eb01d7b2c3b9bdcac4e9aefe4ca1b48cddf"
     },
     "garch": {
       "forecasts": 3393,
       "refits": 161,
-      "run_date": "2026-10-11",
-      "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+      "run_date": "2026-10-18",
+      "commit": "5a692eb01d7b2c3b9bdcac4e9aefe4ca1b48cddf"
     },
     "har": {
       "forecasts": 3393,
       "refits": 161,
-      "run_date": "2026-10-11",
-      "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+      "run_date": "2026-10-18",
+      "commit": "5a692eb01d7b2c3b9bdcac4e9aefe4ca1b48cddf"
     },
     "gbm": {
       "forecasts": 3393,
       "refits": 161,
-      "run_date": "2026-10-11",
-      "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+      "run_date": "2026-10-18",
+      "commit": "5a692eb01d7b2c3b9bdcac4e9aefe4ca1b48cddf"
     },
     "gbm_vix": {
       "forecasts": 3393,
       "refits": 161,
-      "run_date": "2026-10-11",
-      "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+      "run_date": "2026-10-18",
+      "commit": "5a692eb01d7b2c3b9bdcac4e9aefe4ca1b48cddf"
     },
     "trailing": {
       "forecasts": 3393,
       "refits": 0,
-      "run_date": "2026-10-11",
-      "commit": "16e9a59b376406ddb790a2929997f40d83e8ebae"
+      "run_date": "2026-10-18",
+      "commit": "5a692eb01d7b2c3b9bdcac4e9aefe4ca1b48cddf"
     }
   }
 }
