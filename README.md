@@ -80,7 +80,7 @@ uv run --frozen pytest -q
 | `tests/` | Pruebas de cálculos, alineación temporal y evaluación. |
 | `data/snapshots/` | Datos crudos congelados y manifiesto de integridad. |
 | `data/cache/` | Base procesada, pronósticos, estrategias y reporte. |
-| `entregas/` | Propuesta y entregas previas en PDF. |
+| `entregas/` | Propuesta, entregas previas y tesina final en PDF. |
 
 ## Datos y trazabilidad
 
@@ -99,3 +99,4 @@ las huellas de los datos utilizados.
 * [Entrega 2](entregas/Entrega2_VolatilityTrading_Otero_Telias.pdf)
 * [Entrega 3](entregas/Entrega3_VolatilityTrading_Otero_Telias.pdf)
 * [Entrega 4](entregas/Entrega4_VolatilityTrading_Otero_Telias.pdf)
+* [Tesina final](entregas/TesinaFinal_VolatilityTrading_Otero_Telias.pdf)
